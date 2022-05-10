@@ -6,5 +6,5 @@ Link pdf esercitazione: https://virtuale.unibo.it/pluginfile.php/1210931/mod_fol
 
 #### Esercizi
 
-1. Calcolare la soluzione di sistemi lineari _Ax = b_ dati usando il metodo di fattorizzazione LU senza pivoting;
-2. Calcolare la soluzione di sistemi lineari _Ax = b_ dati usando il metodo di fattorizzazione LU senza pivoting e con pivoting parziale.
+1. Calcolare la soluzione di sistemi lineari _Ax = b_ dati usando il metodo di fattorizzazione LU senza pivoting `LUnopivot.m`;
+2. Calcolare la soluzione di sistemi lineari _Ax = b_ dati usando il metodo di fattorizzazione LU senza pivoting `LUnopivot.m` e con pivoting parziale `LUparziale.m`.
